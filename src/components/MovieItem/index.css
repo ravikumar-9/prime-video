@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.popup-container {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+  height: 30vh;
+  width: 90%;
+}
+.trigger-image {
+  margin: 10px;
+}
+.trigger-button {
+  outline: none;
+  border: none;
+  background-color: transparent;
+  align-self: flex-end;
+}
